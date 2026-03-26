@@ -1,0 +1,19 @@
+{
+  "canciones": [
+    {
+      "nombre": "cancion1",
+      "url": "https://github.com/Vevi01/ApiStatica_test/raw/refs/heads/main/cancion1.mp3",
+      "": ""
+    },
+    {
+      "nombre": "cancion2",
+      "url": "https://github.com/Vevi01/ApiStatica_test/raw/refs/heads/main/cancion2.mp3",
+      "": ""
+    },
+    {
+      "nombre": "cancion3",
+      "url": "https://github.com/Vevi01/ApiStatica_test/raw/refs/heads/main/cancion3.mp3",
+      "": ""
+    }
+  ]
+}
